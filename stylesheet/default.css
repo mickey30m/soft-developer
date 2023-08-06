@@ -41,18 +41,18 @@ ul.menu {
     font-size: 14px;
     text-align: left;
   }
-  .cel01 {
+  #cel01 {
     width: 100px;
   }  
-  .cel02 {
+  #cel02 {
     width: 100px;
     max-width: 100px;
     max-height: 100px;
   }
-  .cel03 {
+  #cel03 {
     width: 100px;
   }
-  .cel04 {
+  #cel04 {
     width: 100px;
     max-width: 100px;
     max-height: 100px;
