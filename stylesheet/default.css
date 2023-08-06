@@ -41,7 +41,7 @@ ul.menu {
     font-size: 14px;
     text-align: left;
   }
-  #cel01 {
+  table tr td #cel01 {
     width: 100px;
   }  
   #cel02 {
