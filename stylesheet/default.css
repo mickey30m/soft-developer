@@ -46,10 +46,14 @@ ul.menu {
   }  
   .cel02 {
     width: 100px;
+    max-width: 100px;
+    max-height: 100px;
   }
   .cel03 {
     width: 100px;
   }
   .cel04 {
     width: 100px;
+    max-width: 100px;
+    max-height: 100px;
   }
